@@ -1,4 +1,4 @@
-# Méthode
+# ✨ Méthode
 
 ![](../.gitbook/assets/uqam-clocher.jpeg)
 
