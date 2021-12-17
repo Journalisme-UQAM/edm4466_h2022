@@ -1,7 +1,7 @@
 ---
 description: Session Hiver 2022
-cover: broken-reference
-coverY: 0
+cover: .gitbook/assets/montmartre-pigeon.jpg
+coverY: -1.8050541516245486
 ---
 
 # 😺 Journalisme de données II \~ Hiver 2022
