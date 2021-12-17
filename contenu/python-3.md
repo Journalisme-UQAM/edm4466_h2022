@@ -4,7 +4,7 @@
 
 ### 3 février 2023
 
-![Le rappel des glaneuses, Jules Breton, 1859 (Musée d'Orsay, Paris)](.gitbook/assets/Rappel-des-glaneuses\_Breton.jpeg)
+![Le rappel des glaneuses, Jules Breton, 1859 (Musée d'Orsay, Paris)](../.gitbook/assets/Rappel-des-glaneuses\_Breton.jpeg)
 
 On va maintenant faire ce qu'on appelle en anglais du _scraping_ (en passant, de grâce, ne prononcez pas _scrapping_, mais bien _scraping_), ce qui peut être traduit en français par du **moissonnage**.
 

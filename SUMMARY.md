@@ -10,10 +10,7 @@
 ## Contenu
 
 * [Installfest](contenu/installfest.md)
-
-***
-
-* [Python 1](python-1.md)
-* [Python 2](python-2.md)
-* [Python 3](python-3.md)
-* [Python 4](python-4.md)
+* [Python 1](contenu/python-1.md)
+* [Python 2](contenu/python-2.md)
+* [Python 3](contenu/python-3.md)
+* [Python 4](contenu/python-4.md)
