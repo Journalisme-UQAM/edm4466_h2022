@@ -25,8 +25,8 @@ Je reste ouvert à vos **demandes spéciales**. Vous avez entendu parler d'un pr
 
 Inversement, si vous connaissez une technique, un outil, un truc, n'hésitez jamais à le **partager** avec l'ensemble du groupe. Parlez-m'en au préalable et on pourra prévoir une période dans le prochain cours pour que vous puissiez nous le ou la présenter. Si vous pouvez vous aussi m'apprendre quelque chose, je serai le prof le plus heureux du monde.
 
-{% embed url="https://pbs.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_400x400.jpg" %}
-
 > ### _Il n'y a aucune honte à admettre qu'on ignore quelque chose. La seule honte est de prétendre avoir réponse à tout._
 >
 > * Neil deGrasse Tyson
+
+![](../.gitbook/assets/NeilDTyson.jpg)
