@@ -1,8 +1,10 @@
 ---
 description: Session Hiver 2022
+cover: broken-reference
+coverY: 0
 ---
 
-# 😺 Journalisme de données II
+# 😺 Journalisme de données II \~ Hiver 2022
 
 ## Objectifs de ce cours <a href="#objectifs-de-ce-cours" id="objectifs-de-ce-cours"></a>
 
