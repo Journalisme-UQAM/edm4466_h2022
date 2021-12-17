@@ -5,3 +5,4 @@
 ## Intro
 
 * [Enseignant](intro/enseignant.md)
+* [Méthode](intro/methode.md)
