@@ -7,7 +7,6 @@
 On continue dans l'apprentissage de BeautifulSoup pour :
 
 * contourner différents obstacles pouvant entraver votre moissonnage :
-*
   * entêtes http
   * moissonner localement de grosses pages
   * essayer la version mobile d'un site
