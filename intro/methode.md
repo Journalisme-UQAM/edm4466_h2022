@@ -1,6 +1,6 @@
 # ✨ Méthode
 
-Le contenu de ce cours colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://cj2020.northeastern.edu). Il s'agit de l'application de l'informatique au journalisme. Ce plan de cours est un exemple de ce qu'on peut faire avec ces technologies. Il repose sur un système appelé [_git_](https://fr.wikipedia.org/wiki/Git), qui permet de collaborer à plusieurs sur un même projet. _Git_ est l'une des technologies que l'on appréhendera ensemble au cours de la session.
+Le contenu de ce cours colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://cj2020.northeastern.edu). Il s'agit de l'application de l'informatique au journalisme. Ce plan de cours est un exemple de ce qu'on peut faire avec ces technologies. Il repose sur un système appelé [_git_](https://fr.wikipedia.org/wiki/Git), qui permet de collaborer à plusieurs sur un même projet.
 
 Mais ce qu'on fera, surtout, c'est d'apprendre la **programmation** et ses applications journalistiques.
 
@@ -8,7 +8,7 @@ Mais ce qu'on fera, surtout, c'est d'apprendre la **programmation** et ses appli
 
 Le langage qu'on utilisera s'appelle [**Python**](https://www.python.org). C'est un langage d'usage général qui est l'un des plus utilisés dans le monde. C'est celui qui, en 2022 et pour la prochaine décennie au moins, me paraît le plus utile pour vous comme journalistes et comme citoyen.nes. **JavaScript** est plus couramment utilisé par des informaticien.nes, mais il est difficile à appréhender pour des gens qui n'ont jamais programmé. Le langage **R** est très utilisé par mes collègues en sciences humaines et sociales, mais en dehors des cercles académiques, il fait plutôt figure de bizarrerie.
 
-![Les langages les plus populaires utilisés dans Github, site de travail collaboratif, de contrôle de versions et de partage de code informatique, au cours des huit dernières années (source: Octoverse Report 2021).](../.gitbook/assets/octoverse.jpeg)
+![Les langages les plus populaires utilisés dans Github, site de travail collaboratif, de contrôle de versions et de partage de code informatique, au cours des huit dernières années (source: The 2021 State of the Octoverse).](../.gitbook/assets/octoverse.jpeg)
 
 Python a ses avantages et ses inconvénients, comme tous les langages informatiques. C'est celui que j'ai choisi, car il est devenu la _lingua franca_ dans l'univers de l'« intelligence artificielle » et de la science des données. C'est aussi un langage que comprendront les informaticien.nes que vous croiserez peut-être dans les rédactions où vous travaillerez. Enfin, son grand nombre d'utilisateurs fait en sorte que vous pourrez compter sur une grande communauté pour répondre aux questions que vous poserez certainement en ligne au cours de la session.
 
@@ -19,9 +19,13 @@ Plus concrètement, on s'en servira pour :
 * **analyser** des données lorsqu'elles sont trop volumineuses pour un tableur comme _Excel_ ou _Calc_ de LibreOffice,
 * **visualiser** des données.
 
-On verra également quelques commandes de base dans un bon vieux système appelé **UNIX**.
+![Logo du Google Colaboratory, surimposé dans le ciel pour symboliser le fait qu'il s'agit d'un outil infonuagique. ](../.gitbook/assets/colab.jpg)
 
-Si le temps le permet, on tentera enfin de se familiariser avec le [_**Structured Query Language (SQL)**_](https://fr.wikipedia.org/wiki/Structured\_Query\_Language) dont je vous ai parlé dans le cours EDM4455, qui est le langage de la plupart des bases de données.
+On va le faire au moyen d'un outil que j'utilise pour la première fois : [Google Colaboratory](https://colab.research.google.com), ou [**Colab**](https://colab.research.google.com). Pour ce faire, il faut que vous disposiez d'un compte Google (si vous vous servez déjà de Gmail et/ou de Google Drive, tout va bien).
+
+Vous le savez, je ne suis pas un _cheerleader_ des GAFA. Mais j'ai jonglé avec plusieurs options pour ce cours avant de choisir d'utiliser Colab. Ce choix est aussi hérité des expériences des sessions précédentes :
+
+* en 2016, je me servais de [Cloud9](https://aws.amazon.com/fr/cloud9/), qui a cependant été acheté par Amazon qui l'a intégré à ses AWS (Amazon Web Services)
 
 #### Ce cours est un échange
 
