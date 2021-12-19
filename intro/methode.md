@@ -10,7 +10,7 @@ Le langage qu'on utilisera s'appelle [**Python**](https://www.python.org). C'est
 
 ![Les langages les plus populaires utilisés dans Github, site de travail collaboratif, de contrôle de versions et de partage de code informatique, au cours des huit dernières années (source: Octoverse Report 2021).](../.gitbook/assets/octoverse.jpeg)
 
-Python a ses avantages et ses inconvénients, comme tous les langages informatiques. C'est celui que j'ai choisi, car il est devenu la _lingua franca_ dans l'univers de l'« intelligence artificielle » et de la science des données. Son grand nombre d'utilisateurs fait aussi en sorte que vous pourrez compter sur une grande communauté pour trouver réponse aux questions que vous risquez certainement de poser en ligne au cours de la session.
+Python a ses avantages et ses inconvénients, comme tous les langages informatiques. C'est celui que j'ai choisi, car il est devenu la _lingua franca_ dans l'univers de l'« intelligence artificielle » et de la science des données. C'est aussi un langage que comprendront les informaticien.nes que vous croiserez peut-être dans les rédactions où vous travaillerez. Enfin, son grand nombre d'utilisateurs fait en sorte que vous pourrez compter sur une grande communauté pour répondre aux questions que vous poserez certainement en ligne au cours de la session.
 
 Plus concrètement, on s'en servira pour :
 
