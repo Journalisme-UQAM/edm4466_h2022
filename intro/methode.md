@@ -1,12 +1,16 @@
 # ✨ Méthode
 
-![](../.gitbook/assets/uqam-clocher.jpeg)
-
 Le contenu de ce cours colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://cj2020.northeastern.edu). Il s'agit de l'application de l'informatique au journalisme. Ce plan de cours est un exemple de ce qu'on peut faire avec ces technologies. Il repose sur un système appelé [_git_](https://fr.wikipedia.org/wiki/Git), qui permet de collaborer à plusieurs sur un même projet. _Git_ est l'une des technologies que l'on appréhendera ensemble au cours de la session.
 
 Mais ce qu'on fera, surtout, c'est d'apprendre la **programmation** et ses applications journalistiques.
 
-Le langage qu'on utilisera s'appelle [**Python**](https://www.python.org).
+![Au premier-plan, l'Immeuble où le quotidien Le Soleil était situé entre 1928 et 1994 avec, au fond, l'immeuble où la rédaction du journal est située aujourd'hui. Le logo de Python symbolise l'utilisation de la programmation à des fins journalistiques.](../.gitbook/assets/python-soleil.jpg)
+
+Le langage qu'on utilisera s'appelle [**Python**](https://www.python.org). C'est un langage d'usage général qui est l'un des plus utilisés dans le monde. C'est celui qui, en 2022 et pour la prochaine décennie au moins, me paraît le plus utile pour vous comme journalistes et comme citoyen.nes. **JavaScript** est plus couramment utilisé par des informaticien.nes, mais il est difficile à appréhender pour des gens qui n'ont jamais programmé. Le langage **R** est très utilisé par mes collègues en sciences humaines et sociales, mais en dehors des cercles académiques, il fait plutôt figure de bizarrerie.
+
+![Les langages les plus populaires utilisés dans Github, site de travail collaboratif, de contrôle de versions et de partage de code informatique, au cours des huit dernières années (source: Octoverse Report 2021).](../.gitbook/assets/octoverse.jpeg)
+
+Python a ses avantages et ses inconvénients, comme tous les langages informatiques. C'est celui que j'ai choisi, car il est devenu la _lingua franca_ dans l'univers de l'« intelligence artificielle » et de la science des données. Son grand nombre d'utilisateurs fait aussi en sorte que vous pourrez compter sur une grande communauté pour trouver réponse aux questions que vous risquez certainement de poser en ligne au cours de la session.
 
 Plus concrètement, on s'en servira pour :
 
