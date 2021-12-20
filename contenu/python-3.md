@@ -12,4 +12,4 @@ On va rapidement voir des outils simples pour [moissonner des données grâce au
 
 Mais on va s'y mettre surtout à l'aide de la bibliothèque Python [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
-Pour référence, j'ai mis en ligne [ce tutoriel sur BeautifulSoup](http://bit.ly/jhroybs4).
+Pour référence, j'ai mis en ligne [ce tutoriel sur BeautifulSoup](http://bit.ly/jhroybs4) qui regroupe les principaux trucs qu'on verra en cours, y compris comment contourner certaines difficultés inhérentes à cette activité.
