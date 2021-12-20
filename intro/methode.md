@@ -34,6 +34,8 @@ Colab ressemble aux Azure Notebooks qui avaient très bien fonctionné en 2020. 
 
 Il permet de programmer à l'intérieur de ce qu'on appelle des **carnets**, ou _**notebooks**_, en anglais. Vous me rendrez d'ailleurs la plupart des devoirs sous la forme de carnets.
 
+Lorsque ce sera nécessaire, je partagerai avec vous des fichiers dans [ce répertoire partagé sur Google Drive](https://bit.ly/fichiersColab), répertoire auquel vous pouvez aussi accéder directement à partir de Colab.
+
 ### Ce cours est un échange
 
 Je reste ouvert à vos **demandes spéciales**. Vous avez entendu parler d'un projet, d'un reportage retentissant, d'une technologie, d'une application particulière en journalisme? Si je puis vous aider à l'appréhender, voire la réaliser, je vais tâcher de le faire. La meilleure façon d'apprendre est avec un projet concret.
