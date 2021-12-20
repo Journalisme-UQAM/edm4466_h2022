@@ -30,3 +30,9 @@
 * [🛠 Travaux](travaux/travaux.md)
 * [🌪 Ventilation](travaux/ventilation.md)
 * [⚠ Critères](travaux/criteres.md)
+
+## Politiques et règlements
+
+* [🙅 Politiques 16 et 42](politiques-et-reglements/politiques-16-et-42.md)
+* [🚫 Règlement 18](politiques-et-reglements/reglement-18.md)
+* [🎒 Politique 23](politiques-et-reglements/politique-23.md)
