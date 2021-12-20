@@ -22,7 +22,7 @@
 * [🐼 11.Pandas 2](contenu/11.pandas-2.md)
 * [📈 12.Viz 1](contenu/12.viz-1.md)
 * [📊 13.Viz 2](contenu/13.viz-2.md)
-* [🍲 14.Outils pour aller plus loin](contenu/14.outils-pour-aller-plus-loin.md)
+* [🍲 14.InstallFest+](contenu/14.installfest+.md)
 
 ## Travaux
 
