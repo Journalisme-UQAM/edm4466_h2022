@@ -23,7 +23,8 @@
 * [📈 12.Viz 1](contenu/12.viz-1.md)
 * [📊 13.Viz 2](contenu/13.viz-2.md)
 * [🍲 14.InstallFest+](contenu/14.installfest+.md)
+* [😎 15.Présentations](contenu/15.presentations.md)
 
 ## Travaux
 
-* [Travaux](travaux/travaux.md)
+* [🛠 Travaux](travaux/travaux.md)
