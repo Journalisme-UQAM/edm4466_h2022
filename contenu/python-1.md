@@ -14,4 +14,4 @@ On va commencer par les concepts de base (qui, en passant, s'appliquent à tous 
 
 Les carnets (_notebooks_) que je vais créer en classe (ou en ligne) seront placés _pronto_ dans la section tutoriels.
 
-Pour bien digérer cette matière nouvelle, vous aurez un court devoir à réaliser. Il s'agira pour vous de rédiger un carnet dans Colab, de l'exporter, de le repabtiser **devoir1.ipynb** et de me l'envoyer par **Moodle**.
+Pour bien digérer cette matière nouvelle, vous aurez un court devoir à réaliser. Il s'agira pour vous de rédiger un carnet dans Colab, de l'exporter, de le repabtiser **devoir1.ipynb** et de me l'envoyer par **Moodle**. Vous trouverez tous les détails dans la section [Travaux](../travaux/travaux.md#devoir-1).

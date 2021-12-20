@@ -22,6 +22,6 @@ Vous devrez rédiger un script python qui moissonne des données d'un site de vo
 * afficher suffisamment d'information dans votre carnet pour qu'on puisse en suivre le déroulement.
 * produire un fichier CSV.
 
-D'autres détails dans la section travaux.
+D'autres détails dans la section [Travaux](../travaux/travaux.md#devoir-3).
 
 Commencez à y travailler dès que possible. Je vais répondre à vos questions si vous éprouvez des problèmes,
