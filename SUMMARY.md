@@ -23,3 +23,7 @@
 * [🐨 12.Pandas 2](contenu/12.pandas-2.md)
 * [📊 13.Visualisation](contenu/13.visualisation.md)
 * [🍲 14.Outils pour aller plus loin](contenu/14.outils-pour-aller-plus-loin.md)
+
+## Travaux
+
+* [Travaux](travaux/travaux.md)
