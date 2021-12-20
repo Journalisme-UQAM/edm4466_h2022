@@ -20,8 +20,8 @@
 * [💠 09.TAL 3](contenu/09.tal-2.md)
 * [🐼 10.Pandas 1](contenu/10.pandas-1.md)
 * [🐼 11.Pandas 2](contenu/11.pandas-2.md)
-* [🐨 12.Pandas 2](contenu/12.pandas-2.md)
-* [📊 13.Visualisation](contenu/13.visualisation.md)
+* [📈 12.Viz 1](contenu/12.viz-1.md)
+* [📊 13.Viz 2](contenu/13.viz-2.md)
 * [🍲 14.Outils pour aller plus loin](contenu/14.outils-pour-aller-plus-loin.md)
 
 ## Travaux
