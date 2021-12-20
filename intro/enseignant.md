@@ -1,4 +1,4 @@
-# Enseignant
+# 👨🏫 Enseignant
 
 ##
 
@@ -7,6 +7,7 @@
 | Clé              | Valeur                                                                                                                |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
 | Nom              | [Jean-Hugues Roy](http://jhroy.ca)                                                                                    |
+| Pronoms          | il, lui                                                                                                               |
 | Bureau           | J-4185                                                                                                                |
 | Courriel         | [roy.jean-hugues@uqam.ca](mailto:roy.jean-hugues@uqam.ca)                                                             |
 | Téléphone        | 514/987-3000, x6102                                                                                                   |
