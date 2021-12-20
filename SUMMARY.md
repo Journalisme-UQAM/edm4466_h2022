@@ -17,7 +17,7 @@
 * [👅 06.TAL 1](contenu/06.tal-1.md)
 * [📜 07.TAL 2](contenu/07.tal-2.md)
 * [🏖 08.Relâche](contenu/08.relache.md)
-* [📜 09.TAL 2](contenu/09.tal-2.md)
+* [💠 09.TAL 3](contenu/09.tal-3.md)
 * [💠 10.TAL 3](contenu/10.tal-3.md)
 * [🐼 11.Pandas 1](contenu/11.pandas-1.md)
 * [🐨 12.Pandas 2](contenu/12.pandas-2.md)
