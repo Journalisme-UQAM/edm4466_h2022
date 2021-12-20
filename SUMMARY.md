@@ -28,4 +28,5 @@
 ## Travaux
 
 * [🛠 Travaux](travaux/travaux.md)
-* [Critères](travaux/criteres.md)
+* [🌪 Ventilation](travaux/ventilation.md)
+* [⚠ Critères](travaux/criteres.md)
