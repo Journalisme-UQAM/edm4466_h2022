@@ -32,7 +32,9 @@ Je ne suis pas un _cheerleader_ des GAFA. Mais si j'ai opté pour Colab, c'est a
 
 Colab ressemble aux Azure Notebooks qui avaient très bien fonctionné en 2020. Ce service m'est apparu comme la meilleure solution. Nous allons en faire l'expérience ensemble au cours de la session.
 
-#### Ce cours est un échange
+Il permet de programmer à l'intérieur de ce qu'on appelle des **carnets**, ou _**notebooks**_, en anglais. Vous me rendrez d'ailleurs la plupart des devoirs sous la forme de carnets.
+
+### Ce cours est un échange
 
 Je reste ouvert à vos **demandes spéciales**. Vous avez entendu parler d'un projet, d'un reportage retentissant, d'une technologie, d'une application particulière en journalisme? Si je puis vous aider à l'appréhender, voire la réaliser, je vais tâcher de le faire. La meilleure façon d'apprendre est avec un projet concret.
 
