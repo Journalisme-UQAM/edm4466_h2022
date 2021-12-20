@@ -9,7 +9,7 @@
 
 ## Contenu
 
-* [🤖 01.Installfest](contenu/installfest.md)
+* [🤖 01.Plan de cours](contenu/01.plan-de-cours.md)
 * [🐍 02.Python 1](contenu/python-1.md)
 * [⚙ 03.Python 2](contenu/python-2.md)
 * [🌾 04.Python 3](contenu/python-3.md)
