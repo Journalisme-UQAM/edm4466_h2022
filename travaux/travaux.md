@@ -6,33 +6,33 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 
 ### Devoir 1 (10 points) - Description à venir <a href="#devoir-1" id="devoir-1"></a>
 
-Vous devez déposer votre script (**devoir1.py**) dans votre compte Github. Plus précisément, placez-le dans un répertoire (_« repo »_ qui devra être _**public**_) que vous baptiserez **edm4466-devoir1**. Le nom exact est important, car un robot va ramasser votre devoir. S'il ne trouve pas ce nom précis, il ne ramassera rien.
+Vous me remettez votre carnet (**devoir1.ipynb**) par Moodle.
 
-Postez-le avant 23h59, le lundi 24 janvier 2022.
+Tombée : 23h59, le lundi 24 janvier 2022.
 
 ### Devoir 2 (10 points) - Description à venir <a href="#devoir-2" id="devoir-2"></a>
 
-Même principe que la semaine précédente : déposez votre script (**devoir2.py**) dans un répertoire public (_« repo »_) de votre compte Github auquel vous donnerez le nom original de **edm4466-devoir2**.
+Vous me remettez votre carnet (**devoir2.ipynb**) par Moodle.
 
-Postez-le avant 23h59, le lundi 31 janvier 2022.
+Tombée : 23h59, le lundi 31 janvier 2022.
 
 ### Devoir 3 (15 points) - Moissonnage (description à venir) <a href="#devoir-3" id="devoir-3"></a>
 
-Le travail est bien décrit dans la page de la semaine 6. Vous devez déposer votre script (**devoir3.py**) dans votre compte Github. Placez-le dans un _« repo »_ public que vous appellerez **edm4466-devoir3**.
+Vous me remettez votre carnet (**devoir3.ipynb**) par Moodle.
 
-Postez-le avant 23h59, le lundi 14 février 2022 :heart\_decoration:.
+Tombée : 23h59, le lundi 14 février 2022 :heart\_decoration:.
 
 ### Devoir 4 (10 points) - Description à venir <a href="#devoir-4" id="devoir-4"></a>
 
-Vous commencez à être des habitué(e)s de Github. Est-il nécessaire de vous dire que vous devez, ici encore, déposer votre document (**devoir4.py**) dans votre compte Github (répertoire **edm4466-devoir4**).
+Vous me remettez votre carnet (**devoir4.ipynb**) par Moodle.
 
-Postez-le avant 23h59, le lundi 7 mars 2022.
+Tombée : 23h59, le lundi 7 mars 2022.
 
 ### Devoir 5 (10 points) - Description à venir <a href="#devoir-5" id="devoir-5"></a>
 
-Vous devrez cette fois mettre en ligne un carnet Jupyter que vous appelerez **devoir5.ipynb**. En outre, placez-le dans un _« repo »_ public que vous baptiserez **edm4466-devoir5**.
+Vous me remettez votre carnet (**devoir5.ipynb**) par Moodle.
 
-Postez-le avant 23h59, le lundi 28 mars 2022.
+Tombée : 23h59, le lundi 28 mars 2022.
 
 ### Projet final (25 points)
 
