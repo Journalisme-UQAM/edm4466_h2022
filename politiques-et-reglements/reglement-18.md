@@ -1,7 +1,5 @@
 # 🚫 Règlement 18
 
-## Règlement 18
-
 ### Infractions de nature académique
 
 Tout acte de plagiat, fraude, copiage, tricherie ou falsification de document commis par une personne étudiante, de même que toute participation à ces actes ou tentative de les commettre, à l’occasion d’un examen ou d’un travail faisant l’objet d’une évaluation ou dans toute autre circonstance, constituent une infraction au sens de ce règlement.

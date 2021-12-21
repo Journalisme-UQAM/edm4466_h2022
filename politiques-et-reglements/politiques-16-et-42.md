@@ -1,7 +1,5 @@
 # 🙅 Politiques 16 et 42
 
-## Politiques 16 et 42
-
 ### Harcèlement psychologique ou sexuel
 
 **Vous n'avez pas à tolérer quelque forme de harcèlement que ce soit de la part de qui que ce soit (personnes enseignantes, étudiantes, responsables de stage, etc.). Je m'engage à tout mettre en oeuvre pour vous offrir un milieu d'apprentissage exempt de harcèlement.**
