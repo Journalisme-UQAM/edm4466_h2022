@@ -36,10 +36,10 @@ Tombée : 23h59, le lundi 28 mars 2022.
 
 Pour votre projet final, vous avez deux options. Vous pouvez faire :
 
-* un **reportage** ou
-* un **outil**
+* un <mark style="background-color:blue;">**reportage**</mark> ou
+* un <mark style="background-color:green;">**outil**</mark>
 
-Si vous choisissez l'**option reportage**, vous pouvez le faire sur un **sujet** de votre choix (conditionnel à mon approbation). Vous avez aussi le choix de la **forme** de ce reportage : il peut s'agir d'un article, d'un reportage radio, d'un reportage télé ou d'un reportage web.
+Si vous choisissez l'**option **<mark style="background-color:blue;">**reportage**</mark>, vous pouvez le faire sur un **sujet** de votre choix (conditionnel à mon approbation). Vous avez aussi le choix de la **forme** de ce reportage : il peut s'agir d'un article, d'un reportage radio, d'un reportage télé ou d'un reportage web.
 
 La production de ce reportage ou de cet outil devra impliquer de la programmation en Python pour moissonner et/ou traiter et/ou visualiser des données.
 
@@ -47,7 +47,7 @@ Votre reportage devra également :
 
 * comprendre **au moins une entrevue** avec un expert, un témoin, ou tout autre intervenant en mesure de valider ou d'incarner ce que racontent les données dans votre reportage.
 
-L'**option outil** peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit : « Hé! Ce serait cool si on pouvait faire telle chose! » Eh bien, allez-y! Faites-la! _W kapab_!
+L'**option **<mark style="background-color:green;">**outil**</mark> peut prendre diverses formes. Il peut s'agir d'un robot sur Twitter, d'un outil qui automatise des tâches fastidieuses dans une salle de presse, etc. Si vous vous êtes déjà dit : « Hé! Ce serait cool si on pouvait faire telle chose! » Eh bien, allez-y! Faites-la! _W kapab_!
 
 ### _Making-of_ (10 points)
 
@@ -55,7 +55,7 @@ Quelle que soit la forme que prendra votre travail final, il devra être accompa
 
 * compte entre 3 000 et 5 000 caractères;
 * comprend des liens vers **toutes** les sources de documentation qui vous ont aidées en cours de route;
-* comprend des hyperliens vers **toutes** les sources de vos données et/ou carnets Jupyter que vous avez utilisés (s'il y a lieu);
+* comprend des hyperliens vers **toutes** les sources de vos données et/ou carnets que vous avez utilisés (s'il y a lieu);
 * décrit votre démarche :
   * Pourquoi ce sujet?
   * Quels outils ou quelles technologies avez-vous utilisés?
@@ -63,6 +63,6 @@ Quelle que soit la forme que prendra votre travail final, il devra être accompa
   * Comment vous ont-ils(elles) servi?
   * Quels problèmes avez-vous éprouvés (s'il y a lieu).
 
-Votre document PDF doit être accompagné, s'il y a lieu, de tous les scripts **(fichiers .py ou .rb ou .js)** que vous avez écrits, et/ou de tous les fichiers de données **(formats .csv, .ods, .xls, .sql ou autres)** que vous avez récoltés ou dont vous vous êtes servis.
+Votre document PDF doit être accompagné, s'il y a lieu, de tous les carnets que vous avez écrits, et/ou de tous les autres fichiers pertinents **(.py, .csv, .ods, .xls, .sql ou autres)** que vous avez récoltés ou dont vous vous êtes servis.
 
-Vous mettez tout cela dans un _« repo »_ public sur votre compte Github avant le début du dernier cours (14h00, le 16 avril 2020). Vous pouvez lui donner le nom qui vous plaît.
+Vous mettez tout cela dans Moudeul avant le début du dernier cours (9h30, le 21 avril 2022) _por favor_.
