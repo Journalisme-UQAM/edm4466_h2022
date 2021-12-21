@@ -40,7 +40,7 @@ Utilisez le bouton marqué par la flèche ci-dessous...
 
 #### Étape 3
 
-Entrez la ligne de code suivante dans la première cellule de votre carnet :thumbsup:
+Entrez la ligne de code suivante dans la première cellule de votre carnet :
 
 <mark style="color:purple;">`from`</mark>` ``fbSports`` `<mark style="color:purple;">`import`</mark>` ``publications`
 
