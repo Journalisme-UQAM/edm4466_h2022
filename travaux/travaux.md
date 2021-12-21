@@ -2,9 +2,68 @@
 
 Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
-### Devoir 1 (10 points) - Description à venir <a href="#devoir-1" id="devoir-1"></a>
+### Devoir 1 (10 points) - Amateurs de sport, bonsoir <a href="#devoir-1" id="devoir-1"></a>
 
-Vous me remettez votre carnet (**devoir1.ipynb**) par Moodle.
+Vous travaillez à partir d'une variable appelée `publications`.
+
+C'est une liste qui contient 1436 autres listes. Chacune de ces autres listes contient des données sur les 1436 publications (ou _« posts »_) Facebook publiées en février 2021 par **RDS**, **TVA Sports** et **Radio-Canada Sports**. Chacune contient 13 éléments :
+
+* Nom du média
+* Date et heure de la publication
+* Type (lien, image, vidéo, etc.)
+* URL (vous pouvez tester; chaque URL vous mènera au _« post »_ en question)
+* Nombre de « j'aime » suscités par la publication
+* Nombre de commentaires
+* Nombre de fois que la publication a été partagée
+* Nombre de :heart:
+* Nombre de :astonished:
+* Nombre de :laughing:
+* Nombre de :cry:
+* Nombre de :rage:
+* Nombre de câlinours
+
+La somme des neuf derniers éléments (partages, commentaires et réactions \[« j'aime » et autres émoticônes]) est ce qu'on appelle les **interactions** (_« engagement »_, en anglais).
+
+#### Étape 1
+
+Créez un carnet dans Colab. Appelez-le **devoir1.ipynb**.
+
+#### Étape 2
+
+Utilisez le bouton marqué par la flèche ci-dessous...
+
+![](../.gitbook/assets/uplode.png)
+
+... pour y téléverser le fichier **fbSports.py** que vous pouvez trouverez ci-dessous :
+
+{% file src="../.gitbook/assets/fbSports.py" %}
+
+#### Étape 3
+
+Entrez la ligne de code suivante dans la première cellule de votre carnet :thumbsup:
+
+<mark style="color:purple;">`from`</mark>` ``fbSports`` `<mark style="color:purple;">`import`</mark>` ``publications`
+
+La variable `publications` est désormais à votre disposition.
+
+#### Étape 4
+
+Complétez votre carnet avec du code qui vous permettra d'effectuer différentes opérations sur la variable `publications` afin de répondre aux questions suivantes :
+
+* Quel est le média dont les publications ont suscité le plus d'interactions au total en février 2021?
+* Les publications de ce média ont suscité combien d'interactions au total?
+* Quel est le média dont chacune des publications a, en moyenne, suscité le plus d'interactions en février 2021?
+* Chaque publication de ce média a suscité combien d'interactions?
+
+Incluez dans votre carnet des cellules de texte pour expliquer ce que fait votre code et pour répondre aux questions.
+
+#### Étape 5
+
+Téléchargez votre carnet en format .ipynb sur votre ordinateur.
+
+![](../.gitbook/assets/downlode.png)
+
+Remettez votre carnet (**devoir1.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 24 janvier 2022.
 
