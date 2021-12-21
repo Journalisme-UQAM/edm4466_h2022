@@ -4,6 +4,7 @@
 
 ## Intro
 
+* [🎯 Objectifs](intro/objectifs.md)
 * [👨🏫 Enseignant](intro/enseignant.md)
 * [✨ Méthode](intro/methode.md)
 

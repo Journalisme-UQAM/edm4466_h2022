@@ -6,6 +6,10 @@ Comme la matière de ce cours est particulièrement difficile, voire totalement 
 
 Comme dans mes autres cours, ce qui compte à mes yeux est l'effort.
 
+### Pour le brainstorm, le tutorat et les présentations
+
+Faites-moi la démonstration que vous avez fait des recherches avant le cours, que vous avez réfléchi à un sujet, que vous avez progressé de votre côté et vous aurez tous les points. Me contacter entre les cours avec des questions précises est une autre excellente façon de démontrer votre préparation.
+
 ### Pour les carnets
 
 Vous allez me remettre d'abord cinq carnets en autant de devoirs (ou travaux pratiques). Je tenterai de les faire fonctionner « localement », sur mon ordinateur.
@@ -24,10 +28,10 @@ Rappelez-vous qu'il sera possible de ne rien comprendre. Vous pourrez ressentir 
 
 ### Travail final et _making-of_
 
-* Effort.
+* Effort (je radote, je sais).
 * Intérêt public.
 * Originalité.
 
-Ici encore, il est possible que vous n'y arriviez pas. Ne vous sentez pas _poche_. Plusieurs étudiant.es des sessions précédentes n'ont pas été en mesure de compléter un projet final. Soyez néanmoins certains que vos efforts auront une valeur à mes yeux. Un _making-of_ détaillé et bien documenté aussi!
+Ici encore, il est possible que vous n'y arriviez pas. Ne vous sentez pas _poche_. Plusieurs personnes des sessions précédentes n'ont pas été en mesure de compléter un projet final. Soyez néanmoins certains que vos efforts auront une valeur à mes yeux. Un _making-of_ détaillé et bien documenté aussi!
 
-Dans votre travail final et votre _making-of_, toute erreur de français vous fait perdre 1% de la valeur du travail.
+Notez cependant que dans votre travail final et votre _making-of_, toute erreur de français vous fait perdre 1% de la valeur du travail.
