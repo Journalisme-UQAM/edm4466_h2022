@@ -27,18 +27,18 @@ Je ne suis pas un _cheerleader_ des GAFA. Mais si j'ai opté pour Colab, c'est a
 
 * en 2016 et 2017, je demandais aux étudiant.es d'utiliser [Cloud9](https://aws.amazon.com/fr/cloud9/); ce service en ligne a cependant été acheté par Amazon qui l'a intégré à ses AWS (Amazon Web Services) et l'a rendu payant :skull::exclamation:
 * à partir de 2018, j'ai demandé à tout le monde d'installer sur son ordi [Anaconda](https://www.anaconda.com), une plateforme d'analyse de données. On réutilisait [Sublime Text](https://www.sublimetext.com), comme dans le EDM4455 (_nostalgie_) pour écrire du code. Mais cela se traduisait par une expérience différente selon que vous possédiez un ordinateur avec Windows ou avec Mac. En outre, les personnes munies d'un Chromebook étaient larguées (elles pouvaient utiliser [CodeAnywhere](https://codeanywhere.com) ou [PythonAnywhere](https://www.pythonanywhere.com), des services cependant payants). En 2020, j'ai même introduit un éditeur de code professionnel : [Visual Studio Code](https://code.visualstudio.com).
-* à l'été 2020, j'ai donné avec deux collègues de la Faculté des sciences le cours [Initiation à la science des données et à l'intelligence artificielle](https://etudier.uqam.ca/cours?sigle=INF7100). C'était entre les deux premières vagues de la pandémie et le cours a exclusivement été donné en ligne. Je me suis alors servi de [Azure Notebooks](https://portal.azure.com), un service auquel toute personne qui travaille ou étudie à l'UQAM avait accès gratuitement dans le cadre de l'abonnement de l'université à Office365... j'utilise l'imparfait parce que ce service n'existe plus...
+* à l'été 2020, j'ai donné avec deux collègues de la Faculté des sciences le cours [Initiation à la science des données et à l'intelligence artificielle](https://etudier.uqam.ca/cours?sigle=INF7100). C'était entre les deux premières vagues de la pandémie et le cours a exclusivement été donné en ligne. Je me suis alors servi des [Azure Notebooks](https://portal.azure.com), un service auquel toute personne qui travaille ou étudie à l'UQAM avait accès gratuitement dans le cadre de l'abonnement de l'université à Office365... j'utilise l'imparfait parce que ce service n'existe plus...
 * Pour cette session-ci, j'ai exploré des solutions de rechange comme [PyCharm](https://www.jetbrains.com/fr-fr/pycharm/), [Gitpod](https://www.gitpod.io), [Glitch](https://glitch.com) ou les [Codespaces de Github](https://github.com/features/codespaces). Pour toutes sortes de raisons, je ne les trouvais pas appropriés pour cette session au cours de laquelle les risques de reconfinement sont grands et où j'ai besoin d'une solution en ligne.
 
-Colab ressemble aux Azure Notebooks qui avaient très bien fonctionné en 2020. Ce service m'est apparu comme la meilleure solution. Nous allons en faire l'expérience ensemble au cours de la session.
+Colab ressemble aux Azure Notebooks qui avaient très bien fonctionné en 2020. Ce service m'est donc apparu comme la meilleure solution, même si je ne m'en suis encore jamais servi pour enseigner la programmation. Nous allons en faire l'expérience ensemble au cours de la session.
 
-Ce service devrait donc fonctionner, quel que soit l'ordi que vous possédez : Mac, Windows, Linux, ChromeBook... Ça fonctionne même sur un téléphone dans l'application Chrome! Pas très pratique cependant..
+Ce service devrait donc fonctionner, quel que soit l'ordi que vous possédez : Mac, Windows, Linux, ChromeBook... Je l'ai même testé sur un téléphone dans l'application Chrome :scream: !! Pas très pratique cependant...
 
 ![Colab dans l'application Chrome sous iOS 15.1 sur un iPhone XR](../.gitbook/assets/colab-ios.png)
 
 Il permet de programmer à l'intérieur de ce qu'on appelle des **carnets**, ou _**notebooks**_, en anglais. Vous me rendrez d'ailleurs la plupart des devoirs sous la forme de carnets.
 
-Lorsque ce sera nécessaire, je partagerai avec vous des fichiers qui seront utiles dans le cadre des exercices en classe dans [ce répertoire partagé sur Google Drive](https://bit.ly/fichiersColab), répertoire auquel vous pouvez aussi accéder directement à partir de Colab.
+Lorsque ce sera nécessaire, je partagerai au préalable avec vous des fichiers qui seront utiles dans le cadre des exercices en classe dans [ce répertoire partagé sur Google Drive](https://bit.ly/fichiersColab), répertoire auquel vous pouvez aussi accéder directement à partir de Colab.
 
 ### Ce cours est un échange
 

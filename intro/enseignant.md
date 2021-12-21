@@ -16,3 +16,4 @@
 | Instagram        | [@jhroy](https://www.instagram.com/jhroy/)                                                                            |
 | Crypto           | [Clé publique PGP](https://keyserver.ubuntu.com/pks/lookup?op=get\&search=0xa5558e07958ab54e8b89e162a2c7d3904242557a) |
 | Exemples de code | [Github](https://github.com/jhroy)                                                                                    |
+| Stack Overflow   | user : [1601567](https://stackoverflow.com/users/1601567)                                                             |
