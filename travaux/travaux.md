@@ -44,7 +44,7 @@ Entrez la ligne de code suivante dans la première cellule de votre carnet :
 
 <mark style="color:purple;">`from`</mark>` ``fbSports`` `<mark style="color:purple;">`import`</mark>` ``publications`
 
-La variable `publications` est désormais à votre disposition.
+La variable `publications` est désormais à votre disposition. Si vous cherchez à en voir la taille à l'aide de la fonction `len()`, vous devriez obtenir 1436.
 
 #### Étape 4
 
