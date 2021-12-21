@@ -1,4 +1,4 @@
-publications = [["media","dateHeure","type","url","likes","commentaires","partages","love","wow","haha","triste","colere","solidarité"],
+publications = [
 ["TVA Sports","2021-02-01 07:00:01 EST","Native Video","https://www.facebook.com/127476907331141/posts/3863888207023307","130","94","8","11","3","5","1","0","0"],
 ["RDS","2021-02-01 08:47:23 EST","Link","https://www.facebook.com/132756582352/posts/10157648310462353","8","0","1","1","0","0","0","0","0"],
 ["Radio-Canada Sports","2021-02-01 09:10:13 EST","Native Video","https://www.facebook.com/163083777048046/posts/3806767526012968","67","11","14","14","2","0","0","0","0"],
@@ -1434,4 +1434,5 @@ publications = [["media","dateHeure","type","url","likes","commentaires","partag
 ["RDS","2021-02-28 19:50:00 EST","Link","https://www.facebook.com/132756582352/posts/10157708067612353","1765","138","45","128","11","0","0","0","24"],
 ["RDS","2021-02-28 21:23:02 EST","Link","https://www.facebook.com/132756582352/posts/10157708199472353","101","41","15","4","1","12","1","0","0"],
 ["RDS","2021-02-28 21:48:00 EST","Link","https://www.facebook.com/132756582352/posts/10157708215412353","874","113","42","99","5","1","0","0","2"],
-["TVA Sports","2021-02-28 22:24:54 EST","Native Video","https://www.facebook.com/127476907331141/posts/3942718432473617","204","23","24","32","2","0","0","0","0"]]
+["TVA Sports","2021-02-28 22:24:54 EST","Native Video","https://www.facebook.com/127476907331141/posts/3942718432473617","204","23","24","32","2","0","0","0","0"]
+]
