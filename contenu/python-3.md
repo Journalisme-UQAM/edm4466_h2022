@@ -1,8 +1,8 @@
 # 🌾 04.Python 3
 
-## 04 - Python 3 - moissonnage
-
 ### 3 février 2022
+
+### Moissonnage de données
 
 ![Le rappel des glaneuses, Jules Breton, 1859 (Musée d'Orsay, Paris)](../.gitbook/assets/Rappel-des-glaneuses\_Breton.jpeg)
 

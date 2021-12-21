@@ -1,7 +1,5 @@
 # 🥣 05.Python 4
 
-## 05 - Python 4
-
 ### 10 février 2022
 
 On continue dans l'apprentissage de BeautifulSoup pour :

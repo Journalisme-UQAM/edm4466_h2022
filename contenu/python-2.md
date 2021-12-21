@@ -1,7 +1,5 @@
 # ⚙ 03.Python 2
 
-## 03 - Python 2
-
 ### 27 janvier 2022
 
 On poursuit notre apprentissage du langage Python:

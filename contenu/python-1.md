@@ -1,7 +1,5 @@
 # 🐍 02.Python 1
 
-## 02 - Python 1
-
 ### 20 janvier 2022
 
 Nous allons entamer notre apprentissage de [Python](https://fr.wikipedia.org/wiki/Python\_\(langage\)), langage de programmation d'usage général à code source libre.
