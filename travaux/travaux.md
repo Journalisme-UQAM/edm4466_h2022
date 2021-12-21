@@ -65,4 +65,4 @@ Quelle que soit la forme que prendra votre travail final, il devra être accompa
 
 Votre document PDF doit être accompagné, s'il y a lieu, de tous les carnets que vous avez écrits, et/ou de tous les autres fichiers pertinents **(.py, .csv, .ods, .xls, .sql ou autres)** que vous avez récoltés ou dont vous vous êtes servis.
 
-Vous mettez tout cela dans Moudeul avant le début du dernier cours (9h30, le 21 avril 2022) _por favor_.
+Vous mettez tout cela dans Moudeul avant la fin du dernier cours (12h30, le 21 avril 2022) _por favor_.

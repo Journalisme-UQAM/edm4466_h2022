@@ -34,4 +34,4 @@ Rappelez-vous qu'il sera possible de ne rien comprendre. Vous pourrez ressentir 
 
 Ici encore, il est possible que vous n'y arriviez pas. Ne vous sentez pas _poche_. Plusieurs personnes des sessions précédentes n'ont pas été en mesure de compléter un projet final. Soyez néanmoins certains que vos efforts auront une valeur à mes yeux. Un _making-of_ détaillé et bien documenté aussi!
 
-Notez cependant que dans votre travail final et votre _making-of_, toute erreur de français vous fait perdre 1% de la valeur du travail.
+Notez cependant que dans votre travail final et votre _making-of_, toute erreur de français vous fait perdre 1% de la valeur du travail; tout retard se verra pénalisé de 10% de la valeur du travail par tranche de 24h de retard.
