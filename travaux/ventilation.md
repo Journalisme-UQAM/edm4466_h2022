@@ -1,6 +1,6 @@
 # 🌪 Ventilation
 
-## Ventilation
+### Ventilation des travaux
 
 | Élément                 | Points |
 | ----------------------- | ------ |

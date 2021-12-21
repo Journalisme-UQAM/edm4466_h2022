@@ -1,6 +1,6 @@
 # ⚠ Critères
 
-## Critères d'évaluation
+### Critères d'évaluation
 
 Comme la matière de ce cours est particulièrement difficile, voire totalement étrangère à tout ce que vous avez fait jusqu'à maintenant dans votre cursus, je suis assez conciliant en ce qui a trait aux notes.
 

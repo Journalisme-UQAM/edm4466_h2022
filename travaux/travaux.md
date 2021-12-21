@@ -1,7 +1,5 @@
 # 🛠 Travaux
 
-## Travaux
-
 Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
 ### Devoir 1 (10 points) - Description à venir <a href="#devoir-1" id="devoir-1"></a>
