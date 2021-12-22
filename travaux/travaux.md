@@ -14,9 +14,9 @@ Tombée : 23h59, le lundi 24 janvier 2022.
 
 ### Devoir 2 (10 points) - Coops de l'information <a href="#devoir-2" id="devoir-2"></a>
 
-Vous trouverez dans Moodle un fichier JSON personnalisé, destiné à vous seul.e. Vous le reconnaîtrez car il contient votre code permanent :
+Vous trouverez dans Moodle un fichier CSV personnalisé, destiné à vous seul.e. Vous le reconnaîtrez car il contient votre code permanent :
 
-`<`_`CODEpermanent`_`>.json`
+`coops-CODEpermanent.csv`
 
 _\[plus de détails prontissimo]_
 
