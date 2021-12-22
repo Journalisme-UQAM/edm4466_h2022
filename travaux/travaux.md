@@ -6,7 +6,11 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 
 Vous travaillez à partir d'une variable appelée `publications`.
 
-C'est une liste qui contient 1436 autres listes. Chacune de ces autres listes contient des données sur les 1436 publications (ou _« posts »_) Facebook publiées en février 2021 par **RDS**, **TVA Sports** et **Radio-Canada Sports**. Chacune contient 13 éléments :
+C'est une liste qui contient 1436 autres listes. Chacune de ces autres listes contient des données sur les 1436 publications (ou _« posts »_) Facebook publiées en février 2021 par **RDS**, **TVA Sports** et **Radio-Canada Sports**. Voici un exemple d'une de ces 1436 listes :
+
+`["TVA Sports","2021-02-01 07:00:01 EST","Native Video","https://www.facebook.com/127476907331141/posts/3863888207023307","130","94","8","11","3","5","1","0","0"]`
+
+Chacune contient 13 éléments :
 
 * Nom du média
 * Date et heure de la publication
@@ -22,7 +26,7 @@ C'est une liste qui contient 1436 autres listes. Chacune de ces autres listes co
 * Nombre de :rage:
 * Nombre de câlinours
 
-La somme des neuf derniers éléments (partages, commentaires et réactions \[« j'aime » et autres émoticônes]) est ce qu'on appelle les **interactions** (_« engagement »_, en anglais).
+C'est ainsi que l'exemple que je vous ai donné est celui d'une publication Facebook de TVA Sports faite le 1er février 2021 à 7h (et une seconde) du matin. En fait, c'est une vidéo ([https://www.facebook.com/127476907331141/posts/3863888207023307](https://www.facebook.com/127476907331141/posts/3863888207023307)) qui a été « likée » 130 fois, qui a provoqué 94 commentaires, qui a été partagée 8 fois et qui a suscité 11 « p'tits cœurs », 3 réactions « wow », 5 de rire, 1 de tristesse, aucune de colère et aucune de solidarité. Bref, et ce sera à vous de le calculer dans votre carnet, cette publication a suscité **252 interactions**.
 
 #### Étape 1
 
