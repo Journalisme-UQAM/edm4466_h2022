@@ -1,6 +1,12 @@
 # ✨ Méthode
 
-Le contenu de ce cours colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://cj2020.northeastern.edu). Il s'agit de l'application de l'informatique au journalisme. Ce plan de cours est un exemple de ce qu'on peut faire avec ces technologies. Il repose sur un système appelé [_git_](https://fr.wikipedia.org/wiki/Git), qui permet de collaborer à plusieurs sur un même projet.
+Le contenu de ce cours colle davantage à ce qu'on appelle, dans le monde anglo-saxon, du [_Computational journalism_](https://cj2020.northeastern.edu). Il s'agit de l'application de l'informatique au journalisme.
+
+La carte conceptuelle ci-dessous vous donne un aperçu de tout ce qu'il serait possible d'aborder dans ce cours.
+
+![](../.gitbook/assets/JdeD\_concepts.jpg)
+
+Même le plan de cours que vous consultez en ce moment est un exemple de ce qu'on peut faire avec ces technologies. Il repose sur un système appelé [_git_](https://fr.wikipedia.org/wiki/Git), qui permet de collaborer à plusieurs sur un même projet et de voir les différentes versions d'un même fichier.
 
 Mais ce qu'on fera, surtout, c'est d'apprendre la **programmation** et ses applications journalistiques.
 
