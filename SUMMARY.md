@@ -5,8 +5,8 @@
 ## Intro
 
 * [🎯 Objectifs](intro/objectifs.md)
-* [👨🏫 👨🏫 Enseignant](intro/enseignant.md)
 * [✨ Méthode](intro/methode.md)
+* [👨🏫 👨🏫 Enseignant](intro/enseignant.md)
 * [🗃 Répertoire Google Drive](intro/repertoire-google-drive.md)
 
 ## Contenu
