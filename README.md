@@ -6,6 +6,8 @@ coverY: -1.8050541516245486
 
 # 😺 Journalisme de données II \~ Hiver 2022
 
+Pourrait également s'appeler _Programmation à des fins journalistiques_.
+
 | Clé                                   | Valeur                                                                                                   |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Période                               | Les jeudis matin (9h30 à 12h30)                                                                          |
