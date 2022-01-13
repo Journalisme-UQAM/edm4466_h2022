@@ -12,6 +12,12 @@ Pour pourvoir utiliser dans vos carnets Colab les fichiers qui s'y trouveront, v
 
 ![](../.gitbook/assets/drive2.png)
 
-Une fois ce raccourci créé, dans Colab, vous devriez voir le dossier appelé **« Fichiers EDM4466-H22 »** dans la section _Fichiers_, répertoire _drive > MyDrive_.
+#### Autorisez Colab à accéder à Drive
+
+Une fois ce raccourci créé, dans Colab, vous aurez à autoriser Colab à accéder à votre Drive.
+
+#### Le répertoire devrait être accessible
+
+Une fois cette autorisation effectuée, il faudra peut-être patienter un brin. Mais vous devriez voir le dossier appelé **« Fichiers EDM4466-H22 »** dans la section _Fichiers_, répertoire _drive > MyDrive_, ou plus précisément _**content > drive > MyDrive**._
 
 ![](../.gitbook/assets/drive3.png)
