@@ -14,6 +14,10 @@ Vous pourrez reproduire de votre côté, dans un carnet (_notebook_) Colab que v
 
 > **Les carnets que je vais produire devant vous seront placés rapidement dans la section** [**tutoriels**](00.tutoriels.md) **après chaque cours.**
 
+La fin du cours a été enregistrée et est accessible ici:
+
+[https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=766d1d59-46a0-41d5-be68-ae230134bd82](https://uqam.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=766d1d59-46a0-41d5-be68-ae230134bd82)
+
 Pour bien digérer cette matière nouvelle, vous aurez un court devoir à réaliser. Il s'agira pour vous :
 
 * de rédiger un carnet dans Colab,
