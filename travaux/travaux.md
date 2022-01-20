@@ -6,7 +6,63 @@ Les travaux à remettre ont été mentionnés brièvement dans les pages précé
 
 Vous travaillez à partir d'une variable appelée `publications`.
 
-_\[plus de détails prontissimo]_
+C'est une liste qui contient 1436 autres listes. Chacune de ces autres listes contient des données sur les 1436 publications (ou _« posts »_) Facebook publiées en février 2021 par **RDS**, **TVA Sports** et **Radio-Canada Sports**. Voici un exemple d'une de ces 1436 listes :
+
+`["TVA Sports","2021-02-01 07:00:01 EST","Native Video","https://www.facebook.com/127476907331141/posts/3863888207023307","130","94","8","11","3","5","1","0","0"]`
+
+Chacune contient 13 éléments :
+
+* Nom du média
+* Date et heure de la publication
+* Type (lien, image, vidéo, etc.)
+* URL (vous pouvez tester; chaque URL vous mènera au _« post »_ en question)
+* Nombre de « j'aime » suscités par la publication
+* Nombre de commentaires
+* Nombre de fois que la publication a été partagée
+* Nombre de :heart:
+* Nombre de :astonished:
+* Nombre de :laughing:
+* Nombre de :cry:
+* Nombre de :rage:
+* Nombre de câlinours
+
+C'est ainsi que l'exemple que je vous ai donné est celui d'une publication Facebook de TVA Sports faite le 1er février 2021 à 7h (et une seconde) du matin. En fait, c'est une vidéo ([https://www.facebook.com/127476907331141/posts/3863888207023307](https://www.facebook.com/127476907331141/posts/3863888207023307)) qui a été « likée » 130 fois, qui a provoqué 94 commentaires, qui a été partagée 8 fois et qui a suscité 11 « p'tits cœurs », 3 réactions « wow », 5 de rire, 1 de tristesse, aucune de colère et aucune de solidarité. Bref, et ce sera à vous de le calculer dans votre carnet, cette publication a suscité **252 interactions**.
+
+**Étape 1**
+
+Créez un carnet dans Colab. Appelez-le **devoir1.ipynb**.
+
+**Étape 2**
+
+Utilisez le bouton marqué par la flèche ci-dessous...
+
+![](../.gitbook/assets/uplode.png)
+
+... pour y téléverser le fichier **fbSports.py** que vous pouvez trouverez ci-dessous :
+
+{% file src="../.gitbook/assets/fbSports.py" %}
+FIchier aussi disponible dans le [répertoire Google Drive du cours](https://bit.ly/fichiersColab).
+{% endfile %}
+
+**Étape 3**
+
+Entrez la ligne de code suivante dans la première cellule de votre carnet :
+
+<mark style="color:purple;">`from`</mark>`fbSports`<mark style="color:purple;">`import`</mark>` ``publications`
+
+La variable `publications` est désormais à votre disposition. Si vous cherchez à en voir la taille à l'aide de la fonction `len()`, vous devriez obtenir 1436.
+
+**Étape 4**
+
+Complétez votre carnet avec du code qui vous permettra d'effectuer différentes opérations sur la variable `publications` afin de répondre à la question suivante :
+
+* Les publications de ces médias ont suscité combien d'interactions au total ce mois-là?
+
+Incluez dans votre carnet des cellules de texte pour expliquer ce que fait votre code et pour répondre aux questions.
+
+**Étape 5**
+
+Téléchargez votre carnet en format .ipynb sur votre ordinateur.
 
 Remettez votre carnet (**devoir1.ipynb**) dans Moodle.
 
