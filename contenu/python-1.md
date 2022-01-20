@@ -10,7 +10,9 @@ On va commencer par les concepts de base (qui, en passant, s'appliquent à tous 
 * les listes et les dictionnaires
 * les boucles et les conditions
 
-Vous pourrez reproduire de votre côté, dans un carnet (_notebook_) Colab que vous créerez, ce que je présenterai à l'écran (en classe ou en zoom). Les carnets que je vais produire devant vous seront placés rapidement dans la section [tutoriels](00.tutoriels.md) après chaque cours.
+Vous pourrez reproduire de votre côté, dans un carnet (_notebook_) Colab que vous créerez, ce que je présenterai à l'écran (en classe ou en zoom).
+
+> **Les carnets que je vais produire devant vous seront placés rapidement dans la section** [**tutoriels**](00.tutoriels.md) **après chaque cours.**
 
 Pour bien digérer cette matière nouvelle, vous aurez un court devoir à réaliser. Il s'agira pour vous :
 
