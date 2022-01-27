@@ -120,7 +120,7 @@ Incluez dans votre carnet des cellules de texte pour expliquer ce que fait votre
 
 À partir du menu «Fichier» de l'interface Colab, téléchargez votre carnet en format `.ipynb` sur votre ordinateur.
 
-Vous me remettez votre carnet (**devoir2.ipynb**) dans Moodle.
+Vous me remettez votre carnet (**devoir2.ipynb**) dans Moodle. Il n'est pas nécessaire de joindre le fichier CSV que votre code produira.
 
 Tombée : 23h59, le lundi 31 janvier 2022.
 
