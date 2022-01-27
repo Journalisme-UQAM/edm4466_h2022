@@ -74,7 +74,51 @@ Vous trouverez dans Moodle un fichier CSV personnalisé, destiné à vous seul.e
 
 `coops-CODEpermanent.csv`
 
-_\[plus de détails prontissimo]_
+Le fichier CSV en question contient 750 enregistrements assez simples. Chacun n'a que deux colonnes ou deux éléments:
+
+| 99999 | **04dd6835bf1b509ff683eb17b99f916f** |
+| ----- | ------------------------------------ |
+
+Celui qui vous intéresse est le 2e, le plus long. C'est ce qu'on appelle un UUID, un numéro tellement unique que [si vous l'entrez dans Google](https://www.google.com/search?q=04dd6835bf1b509ff683eb17b99f916f), vous verrez que même si vous obtenez plusieurs résultats, ils pointent tous vers une seule page ou un contenu identique.
+
+Vous allez utiliser ces UUID pour vous connecter à l'API non-documenté des Coops de l'information. Voici un exemple des données accessibles avec le UUID que je donne en exemple ici:
+
+> [**https://gcm.omerlocdn.com/production/global/contents/04dd6835bf1b509ff683eb17b99f916f.json**](https://gcm.omerlocdn.com/production/global/contents/04dd6835bf1b509ff683eb17b99f916f.json)****
+>
+> Version sans lien plus facile à copier coller:
+>
+> **`https://gcm.omerlocdn.com/production/global/contents/04dd6835bf1b509ff683eb17b99f916f.json`**
+
+#### Étape 1
+
+Créez un carnet dans Colab. Appelez-le **devoir2.ipynb**.
+
+#### Étape 2
+
+Mettez le fichier n'importe où dans votre Google Drive à vous.
+
+![](../.gitbook/assets/coops-drive.png)
+
+Une fois que ce sera fait, vous pourrez voir ce fichier dans votre carnet Colab et y accéder en copiant son chemin d'accès, comme on a fait en cours.
+
+![](../.gitbook/assets/coops-colab.png)
+
+#### Étape 3
+
+Rédigez du code qui va lire toutes les lignes du CSV et qui, à chaque ligne:
+
+* Se connecte à l'API pour l'UUID qui se trouve dans cette ligne (selon le format d'URL suivant: **`https://gcm.omerlocdn.com/production/global/contents/{}.json`**; le UUID va à la place des accolades **`{}`**.)
+* Va chercher les informations suivantes:
+  * Nom du, de la, premier.ère auteur.trice de l'article
+  * Titre de l'article
+  * Date de première publication de l'article
+* Écrit ces trois informations dans une ligne d'un fichier CSV, en y ajoutant le UUID. Ce fichier peut porter le nom que vous voulez.
+
+Incluez dans votre carnet des cellules de texte pour expliquer ce que fait votre code et pour répondre aux questions.
+
+#### Étape 4 (une de moins!)
+
+À partir du menu «Fichier» de l'interface Colab, téléchargez votre carnet en format `.ipynb` sur votre ordinateur.
 
 Vous me remettez votre carnet (**devoir2.ipynb**) dans Moodle.
 
