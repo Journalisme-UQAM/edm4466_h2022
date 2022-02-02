@@ -68,6 +68,8 @@ Remettez votre carnet (**devoir1.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 24 janvier 2022.
 
+[CORRIGÉ](https://colab.research.google.com/drive/1ihuyypyKd93HeWN0-TRDJq46RTsN6iDb?usp=sharing).
+
 ### Devoir 2 (10 points) - Coops de l'information <a href="#devoir-2" id="devoir-2"></a>
 
 Vous trouverez dans Moodle un fichier CSV personnalisé, destiné à vous seul.e. Vous le reconnaîtrez car il contient votre code permanent :
