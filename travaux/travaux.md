@@ -124,7 +124,11 @@ Vous me remettez votre carnet (**devoir2.ipynb**) dans Moodle. Il n'est pas néc
 
 Tombée : 23h59, le lundi 31 janvier 2022.
 
-### Devoir 3 (15 points) - Moissonnage (description à venir) <a href="#devoir-3" id="devoir-3"></a>
+### Devoir 3 (15 points) - Moissonnage <a href="#devoir-3" id="devoir-3"></a>
+
+Moissonnez simplement des informations dans un site web ou un API de votre choix.
+
+Votre carnet doit produire un CSV.
 
 Vous me remettez votre carnet (**devoir3.ipynb**) dans Moodle.
 
