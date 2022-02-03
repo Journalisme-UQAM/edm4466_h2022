@@ -126,11 +126,20 @@ Vous me remettez votre carnet (**devoir2.ipynb**) dans Moodle. Il n'est pas néc
 
 Tombée : 23h59, le lundi 31 janvier 2022.
 
+[CORRIGÉ](https://colab.research.google.com/drive/16XaeO1Xo26QUvr9fsePdQVTMKcnJ6432?usp=sharing).
+
 ### Devoir 3 (15 points) - Moissonnage <a href="#devoir-3" id="devoir-3"></a>
 
-Moissonnez simplement des informations dans un site web ou un API de votre choix.
+Votre carnet doit:
 
-Votre carnet doit produire un CSV.
+* moissonner un site web ou un API de votre choix (allez-y en fonction de vos intérêts: sports, culture, politique internationale, mode, etc.) et
+* produire un CSV avec les données (textes, nombres, dates, montants, coordonnées, URL, images, etc.) que vous y recueillerez,
+* m'expliquer ce que fait votre code,
+* m'expliquer pourquoi ces données vous intéressent.
+
+Ce CSV devra contenir au moins 100 lignes et 5 colonnes. Consultez-moi si cela est différent, peut-être que votre site ou API est structuré de façon telle qu'il peut représenter un défi particuliier.
+
+Si vous avez des difficultés, n'hésitez pas à me demander de l'aide. :rotating\_light:
 
 Vous me remettez votre carnet (**devoir3.ipynb**) dans Moodle.
 
