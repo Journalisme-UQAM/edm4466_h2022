@@ -149,7 +149,7 @@ Tombée : 23h59, le lundi 14 février 2022 :heart\_decoration:.
 
 Vous travaillez avec le fichier _**devoir\_opinion.csv**_ se trouvant dans le répertoire Drive du cours. Il contient tous les textes d'opinion (chroniques ou éditoriaux) publiés dans le _Devoir_ entre 2017 et 2021.
 
-Choisissez deux chroniqueuses.eurs ou éditorialistes du _Devoir_ parmi ceux-ci:
+Choisissez deux chroniqueuses.eurs ou éditorialistes dans la liste ci-dessous:
 
 ```
 Manon Cornellier
