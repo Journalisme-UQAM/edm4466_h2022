@@ -172,11 +172,11 @@ Louis Hamelin
 Jean-François Lisée 
 ```
 
-Pour **chacun.e**, identifiez:
+Pour **chacun.e**, identifiez, à l'aide de spaCy:
 
 * les 25 mots (_tokens_)
 * les 25 lemmes
-* les 25 paires (bigrammes) de mots
+* les 25 paires (bigrammes) de mots et
 * les 25 paires de lemmes
 
 les plus employés.
