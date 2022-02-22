@@ -145,7 +145,43 @@ Vous me remettez votre carnet (**devoir3.ipynb**) dans Moodle.
 
 Tombée : 23h59, le lundi 14 février 2022 :heart\_decoration:.
 
-### Devoir 4 (10 points) - Description à venir <a href="#devoir-4" id="devoir-4"></a>
+### Devoir 4 (10 points) - Opinions au _Devoir_ <a href="#devoir-4" id="devoir-4"></a>
+
+Vous travaillez avec le fichier _**devoir\_opinion.csv**_ se trouvant dans le répertoire Drive du cours. Il contient tous les textes d'opinion (chroniques ou éditoriaux) publiés dans le _Devoir_ entre 2017 et 2021.
+
+Choisissez deux chroniqueuses.eurs ou éditorialistes du _Devoir_ parmi ceux-ci:
+
+```
+Manon Cornellier
+Brian Myles
+Louis Cornellier
+Francine Pelletier
+Jean-François Nadeau
+Marie-Andrée Chouinard
+François Brousseau
+Josée Blanchette
+Christian Rioux
+Konrad Yakabuski
+Jean-Robert Sansfaçon
+Pierre Trudel
+Aurélie Lanctôt
+Normand Baillargeon
+Élisabeth Vallet
+Emilie Nicolas
+Louis Hamelin
+Jean-François Lisée 
+```
+
+Pour **chacun.e**, identifiez:
+
+* les 25 mots (_tokens_)
+* les 25 lemmes
+* les 25 paires (bigrammes) de mots
+* les 25 paires de lemmes
+
+les plus employés.
+
+Rédigez un court paragraphe (trois, quatre ou cinq phrases dans une cellule de texte) décrivant les ressemblances et les différences entre les deux signataires.
 
 Vous me remettez votre carnet (**devoir4.ipynb**) dans Moodle.
 
