@@ -2,6 +2,14 @@
 
 Les travaux à remettre ont été mentionnés brièvement dans les pages précédentes. Je vous donne, ci-dessous, un peu plus de détails sur chacun de ces éléments d'évaluation.
 
+Liens directs vers les devoirs:
+
+* [Devoir 1](travaux.md#devoir-1)
+* [Devoir 2](travaux.md#devoir-2)
+* [Devoir 3](travaux.md#devoir-3)
+* [Devoir 4](travaux.md#devoir-4)
+* [Devoir 5](travaux.md#devoir-5)
+
 ### Devoir 1 (10 points) - Amateurs.trices de sport, bonsoir <a href="#devoir-1" id="devoir-1"></a>
 
 Vous travaillez à partir d'une variable appelée `publications`.
